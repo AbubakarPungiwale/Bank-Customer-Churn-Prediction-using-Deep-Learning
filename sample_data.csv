@@ -1,0 +1,8 @@
+CreditScore	Age	Tenure	Balance	NumOfProducts	HasCrCard	IsActiveMember	EstimatedSalary	Exited	France	Germany	Spain	Female	Male	Mem__no__Products	Age_Tenure_product
+165653	678.0	36.0	3.0	145747.67	2.0	0	1	89566.74	0	0	1	0	0	1	2.0	108.0
+22671	632.0	33.0	7.0	122453.97	2.0	0	1	172450.04	0	1	0	0	1	0	2.0	231.0
+160925	683.0	39.0	4.0	0.00	1.0	1	0	103906.85	1	1	0	0	1	0	0.0	156.0
+116533	679.0	35.0	5.0	151823.40	2.0	1	1	116672.02	0	0	1	0	0	1	2.0	175.0
+11814	584.0	37.0	1.0	0.00	2.0	1	0	93820.49	0	1	0	0	0	1	0.0	37.0
+
+# It is the sample data because, file is very big.
