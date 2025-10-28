@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction Using Deep Learning- Build during Data Scientist Intern at Milestone PLM Solutions Pvt. Ltd., Thane
+# Bank Customer Churn Prediction Using Deep Learning- Build during Data Scientist at Milestone PLM Solutions Pvt. Ltd., Thane
 
 [![GitHub stars](https://img.shields.io/github/stars/abubakarpungiwale/bank-churn-prediction-dl?style=social)](https://github.com/abubakarpungiwale/bank-churn-prediction-dl/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/abubakarpungiwale/bank-churn-prediction-dl?style=social)](https://github.com/abubakarpungiwale/bank-churn-prediction-dl/network)
